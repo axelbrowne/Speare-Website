@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Speare-Website/static/css/main.3ce04df6.chunk.css",
+    "main.css": "/Speare-Website/static/css/main.de8dad2f.chunk.css",
     "main.js": "/Speare-Website/static/js/main.b45d7906.chunk.js",
     "main.js.map": "/Speare-Website/static/js/main.b45d7906.chunk.js.map",
     "runtime-main.js": "/Speare-Website/static/js/runtime-main.1373c4cf.js",
@@ -10,7 +10,7 @@
     "static/js/3.4bfbfb8c.chunk.js": "/Speare-Website/static/js/3.4bfbfb8c.chunk.js",
     "static/js/3.4bfbfb8c.chunk.js.map": "/Speare-Website/static/js/3.4bfbfb8c.chunk.js.map",
     "index.html": "/Speare-Website/index.html",
-    "static/css/main.3ce04df6.chunk.css.map": "/Speare-Website/static/css/main.3ce04df6.chunk.css.map",
+    "static/css/main.de8dad2f.chunk.css.map": "/Speare-Website/static/css/main.de8dad2f.chunk.css.map",
     "static/js/2.f02257fa.chunk.js.LICENSE.txt": "/Speare-Website/static/js/2.f02257fa.chunk.js.LICENSE.txt",
     "static/media/andrew.3e68d2ac.jpg": "/Speare-Website/static/media/andrew.3e68d2ac.jpg",
     "static/media/caitlin.9f6186e2.jpg": "/Speare-Website/static/media/caitlin.9f6186e2.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.1373c4cf.js",
     "static/js/2.f02257fa.chunk.js",
-    "static/css/main.3ce04df6.chunk.css",
+    "static/css/main.de8dad2f.chunk.css",
     "static/js/main.b45d7906.chunk.js"
   ]
 }
