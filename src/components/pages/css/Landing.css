@@ -10,12 +10,15 @@
 }
 
 .landing-photo {
+  text-align: right;
+  transform: scale(0.9);
   width:100vw;
-  clip-path: polygon(100% 0, 100% 100vh, 20% 0);
 }
 
 .landing-photo-wrap {
   filter: drop-shadow(-15px 8px 10px #110011);
+  background: linear-gradient(rgb(76,33,215), rgb(157,33,215));
+  clip-path: polygon(100% 0, 100% 100vh, 20% 0);
 }
 
 .intro {

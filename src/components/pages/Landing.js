@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
 import './css/Landing.css';
-import landingphoto from '../../assets/images/landing-photo.jpg';
+import landing from '../../assets/images/landing.svg';
 import logo from '../../assets/images/logo.png';
 import {Link} from 'react-router-dom'
 
@@ -30,7 +30,7 @@ function Landing() {
         </div>
         <div className="landing-photo-wrap">
           <div className="landing-photo">
-            <img src={landingphoto}></img>
+            <img src={landing}></img>
           </div>
           </div>
         </div>
