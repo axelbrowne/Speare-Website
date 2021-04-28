@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Speare-Website/static/css/main.400854f8.chunk.css",
-    "main.js": "/Speare-Website/static/js/main.3dba515c.chunk.js",
-    "main.js.map": "/Speare-Website/static/js/main.3dba515c.chunk.js.map",
+    "main.css": "/Speare-Website/static/css/main.de8dad2f.chunk.css",
+    "main.js": "/Speare-Website/static/js/main.b45d7906.chunk.js",
+    "main.js.map": "/Speare-Website/static/js/main.b45d7906.chunk.js.map",
     "runtime-main.js": "/Speare-Website/static/js/runtime-main.1373c4cf.js",
     "runtime-main.js.map": "/Speare-Website/static/js/runtime-main.1373c4cf.js.map",
     "static/js/2.f02257fa.chunk.js": "/Speare-Website/static/js/2.f02257fa.chunk.js",
@@ -10,23 +10,24 @@
     "static/js/3.4bfbfb8c.chunk.js": "/Speare-Website/static/js/3.4bfbfb8c.chunk.js",
     "static/js/3.4bfbfb8c.chunk.js.map": "/Speare-Website/static/js/3.4bfbfb8c.chunk.js.map",
     "index.html": "/Speare-Website/index.html",
-    "static/css/main.400854f8.chunk.css.map": "/Speare-Website/static/css/main.400854f8.chunk.css.map",
+    "static/css/main.de8dad2f.chunk.css.map": "/Speare-Website/static/css/main.de8dad2f.chunk.css.map",
     "static/js/2.f02257fa.chunk.js.LICENSE.txt": "/Speare-Website/static/js/2.f02257fa.chunk.js.LICENSE.txt",
     "static/media/andrew.3e68d2ac.jpg": "/Speare-Website/static/media/andrew.3e68d2ac.jpg",
     "static/media/caitlin.9f6186e2.jpg": "/Speare-Website/static/media/caitlin.9f6186e2.jpg",
     "static/media/cameron.3fc8211a.png": "/Speare-Website/static/media/cameron.3fc8211a.png",
-    "static/media/chalkboard.3a5ecd25.svg": "/Speare-Website/static/media/chalkboard.3a5ecd25.svg",
     "static/media/damian.91519d1d.jpg": "/Speare-Website/static/media/damian.91519d1d.jpg",
-    "static/media/landing.3d5e5863.svg": "/Speare-Website/static/media/landing.3d5e5863.svg",
+    "static/media/landing.acba8290.svg": "/Speare-Website/static/media/landing.acba8290.svg",
+    "static/media/landingimgbg.c20c7644.svg": "/Speare-Website/static/media/landingimgbg.c20c7644.svg",
     "static/media/logo.5fd3a059.png": "/Speare-Website/static/media/logo.5fd3a059.png",
     "static/media/logo.6ce24c58.svg": "/Speare-Website/static/media/logo.6ce24c58.svg",
     "static/media/megan.f66b0002.jpg": "/Speare-Website/static/media/megan.f66b0002.jpg",
-    "static/media/michael.65beedfa.png": "/Speare-Website/static/media/michael.65beedfa.png"
+    "static/media/michael.65beedfa.png": "/Speare-Website/static/media/michael.65beedfa.png",
+    "static/media/typersmall.f814a574.svg": "/Speare-Website/static/media/typersmall.f814a574.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1373c4cf.js",
     "static/js/2.f02257fa.chunk.js",
-    "static/css/main.400854f8.chunk.css",
-    "static/js/main.3dba515c.chunk.js"
+    "static/css/main.de8dad2f.chunk.css",
+    "static/js/main.b45d7906.chunk.js"
   ]
 }
